@@ -1,0 +1,60 @@
+
+RESPON PAYMENT SUCCESS 2017-05-06 03:05:09 ENGINE 021
+mer_signature : ff9a4c8e1cca60df8803057e7a3876dcc76adb70a1f934ac55b29c1f68b83f74
+trax_type : Payment
+merchant_id : AP552
+invoice : 91379869
+payment_code : 021113016781
+result_code : 00
+result_desc : Success
+log_no : 6662639450
+payment_source : webdev
+
+
+RESPON PAYMENT SUCCESS 2017-05-06 03:13:09 ENGINE 021
+mer_signature : 5aaeabf11a8919f82ee59a982ae7756543f6533325890aea1c7fd2b69cae6884
+trax_type : Payment
+merchant_id : AP552
+invoice : 61586664
+payment_code : 021113016782
+result_code : 00
+result_desc : Success
+log_no : 0469057765
+payment_source : webdev
+
+
+RESPON PAYMENT SUCCESS 2017-05-06 03:16:09 ENGINE 021
+mer_signature : e516279d27bf4f1f607bc911dd8f653dbc636d1d33096f4d5f6d829ec8ced331
+trax_type : Payment
+merchant_id : AP552
+invoice : 70003236
+payment_code : 021113016783
+result_code : 00
+result_desc : Success
+log_no : 9507873132
+payment_source : webdev
+
+
+RESPON PAYMENT SUCCESS 2017-05-06 03:18:08 ENGINE 021
+mer_signature : 29b91ac6fb48974b61ccbc112565ffda242ea551dc518098fa47dafd0aeb5e28
+trax_type : Payment
+merchant_id : AP552
+invoice : 43403462
+payment_code : 021113016784
+result_code : 00
+result_desc : Success
+log_no : 0856751316
+payment_source : webdev
+
+
+RESPON PAYMENT SUCCESS 2017-05-06 03:47:09 ENGINE 021
+mer_signature : affa243ca5227a278f2b93d024a836d773531f493ab26f4254b4ed63ebc01681
+trax_type : Payment
+merchant_id : AP552
+invoice : 28182591
+payment_code : 021113016785
+result_code : 00
+result_desc : Success
+log_no : 8039126375
+payment_source : webdev
+

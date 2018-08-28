@@ -1,0 +1,12 @@
+
+RESPON PAYMENT SUCCESS 2017-05-08 02:52:11 ENGINE 021
+mer_signature : 45cf55221c0a4656fa1b028bdde059f965ca7350e5bb4068a83cd63920ff65e3
+trax_type : Payment
+merchant_id : AP552
+invoice : 70197766
+payment_code : 021113016832
+result_code : 00
+result_desc : Success
+log_no : 2836430997
+payment_source : webdev
+
